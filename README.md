@@ -1,2 +1,2 @@
 # Battle
-Game
+Game - "Морской бой"
